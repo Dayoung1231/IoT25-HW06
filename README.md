@@ -1,6 +1,6 @@
 # IoT25-HW06
 
-- The ESP32 connects to Wi-Fi, and outputs the ESP IP address on the Serial Monitor.
+- The ESP32 connects to Wi-Fi, and outputs the IP address on the Serial Monitor.
 - We can access the web server by opening the browser and paste the IP address.
 - Then, we can click the to control LED.
 (The ESP32 receives an HTTP request from a client (in this case, your browser).)
